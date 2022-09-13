@@ -4,7 +4,7 @@
 
 ## Overview: 
 
-* I was provided one excel file which contained entries like "Customer Id", "Year of Birth", "Education", "Marital Status", "Income", "Amount spent on different products",
+* I got the excel file from "Maven Analytics" webpage which contained entries like "Customer Id", "Year of Birth", "Education", "Marital Status", "Income", "Amount spent on different products",
 "Number of different types of purchases", "Country of Customer".
 
 * The sheet contains 2240 rows.
